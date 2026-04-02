@@ -1,4 +1,4 @@
-
+# Cryptic Executor - #1 Secure Roblox Executor with Advanced Features 2026 Cryptic is a secure Roblox executor with advanced features, offering users a powerful and reliable tool to run scripts and dominate in their favorite Roblox games.
 
 
 ---
